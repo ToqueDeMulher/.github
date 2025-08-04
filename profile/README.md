@@ -47,7 +47,7 @@ Este projeto tem como objetivo digitalizar a operação da loja, automatizando v
 
 ### Documentação
 
-Acesse a documentação completa em [`docs`]([https://github.com/sua-org/docs](https://docs.google.com/document/d/1z5q9DrDMNDiX6jN4TAneIHm9j3ENk4r6LJFaLApvh0U/edit?usp=drivesdk)) *(substitua pelo link real se quiser).*
+Acesse a documentação completa em [`docs`](https://docs.google.com/document/d/1z5q9DrDMNDiX6jN4TAneIHm9j3ENk4r6LJFaLApvh0U/edit?usp=drivesdk)
 
 ---
 
