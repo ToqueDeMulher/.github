@@ -19,11 +19,11 @@ Este projeto tem como objetivo digitalizar a operação da loja, automatizando v
 
 | Repositório             | Descrição                                    |
 |-------------------------|----------------------------------------------|
-| `site-frontend`         | Interface do usuário e cliente (React)       |
+| `site-frontend`         | Interface do usuário e cliente               |
 | `site-backend`          | API, banco de dados, autenticação            |
 | `design`                | Protótipos, identidade visual, UI/UX         |
 | `docs`                  | Documentação técnica e de projeto            |
-| `assets`                | Imagens, logos e recursos gráficos            |
+| `assets`                | Imagens, logos e recursos gráficos           |
 
 ### Equipe
 
@@ -54,4 +54,4 @@ Acesse a documentação completa em [`docs`](https://docs.google.com/document/d/
 ### Contato
 
 Para dúvidas ou sugestões, entre em contato com a gerente de projeto:  
-**Maria Eduarda de Moura Eguchi** — [LinkedIn](https://www.linkedin.com/) 
+**Maria Eduarda de Moura Eguchi** — [LinkedIn](https://www.linkedin.com/marichoii) 
