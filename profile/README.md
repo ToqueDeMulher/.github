@@ -26,7 +26,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
 
 Equipe multidisciplinar formada por estudantes de Ciência da Computação, responsáveis por diversas frentes do desenvolvimento:
 
-| Nome               | Funções                                     |
+| Nome               | Funções                                      |
 |--------------------|----------------------------------------------|
 | Maria Eduarda      | Gerente de Projeto, Full Stack, QA           |
 | Gustavo Henrique   | Backend, Frontend, Modelagem de Dados        |
@@ -34,6 +34,7 @@ Equipe multidisciplinar formada por estudantes de Ciência da Computação, resp
 | João Gabriel       | Backend, UI/UX                               |
 | Matheus Musashi    | Backend, DevOps, Full Stack, QA              |
 | Carolina Maikuma   | UI/UX, QA                                    |
+| Felipe Rodrigues   | Full Stack, Modelador de Dados, Backend      |
 | Gabriel Soares     | Frontend, UI/UX, Modelagem de Dados          |
 
 ## 🌐 Onde o projeto está sendo desenvolvido?
