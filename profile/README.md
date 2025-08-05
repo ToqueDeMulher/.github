@@ -3,8 +3,6 @@
 **Organização dedicada ao desenvolvimento do ecossistema digital da loja Toque de Mulher.**  
 Aqui você encontra os repositórios e documentações relacionados ao e-commerce da marca.
 
----
-
 ## 📌 Sobre
 
 Um sistema completo de e-commerce para a loja Toque de Mulher, com as seguintes funcionalidades:
@@ -15,8 +13,6 @@ Um sistema completo de e-commerce para a loja Toque de Mulher, com as seguintes 
 - Design responsivo com identidade visual personalizada.
 - Backend robusto com autenticação, banco de dados e APIs RESTful.
 
----
-
 ## 🎯 Por que este projeto?
 
 Atualmente, a loja opera de forma física e manual, o que limita o alcance e a eficiência da operação. Este projeto busca:
@@ -25,8 +21,6 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
 - Expandir o alcance da marca no mercado online.
 - Reduzir o tempo gasto com tarefas operacionais.
 - Oferecer uma experiência de compra moderna e acessível.
-
----
 
 ## 👥 Equipe
 
@@ -41,8 +35,6 @@ Equipe multidisciplinar formada por estudantes de Ciência da Computação, resp
 | Matheus Musashi    | Backend, DevOps, Full Stack, QA              |
 | Carolina Maikuma   | UI/UX, QA                                    |
 | Gabriel Soares     | Frontend, UI/UX, Modelagem de Dados          |
-
----
 
 ## 🌐 Onde o projeto está sendo desenvolvido?
 
@@ -59,8 +51,6 @@ Equipe multidisciplinar formada por estudantes de Ciência da Computação, resp
 | `design`         | Protótipos, identidade visual, UI/UX           |
 | `docs`           | Documentação técnica e de projeto              |
 | `assets`         | Imagens, logos e recursos gráficos             |
-
----
 
 ## 📅 Milestones
 
