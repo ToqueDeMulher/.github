@@ -63,4 +63,4 @@ Equipe multidisciplinar formada por estudantes de Ciência da Computação, resp
 ## 📬 Contato
 
 Para dúvidas ou sugestões, entre em contato com a gerente de projeto:  
-**Maria Eduarda de Moura Eguchi** — [LinkedIn]([https://www.linkedin.com/marichoii](https://www.linkedin.com/in/marichoii/))
+**Maria Eduarda de Moura Eguchi** — [LinkedIn](https://www.linkedin.com/in/marichoii/))
