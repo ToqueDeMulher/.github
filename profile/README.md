@@ -30,11 +30,10 @@ Equipe multidisciplinar formada por estudantes de Ciência da Computação, resp
 |--------------------|----------------------------------------------|
 | Maria Eduarda      | Gerente de Projeto, Full Stack, QA           |
 | Gustavo Henrique   | Backend, Frontend, Modelagem de Dados        |
-| João Pedro         | Frontend, Full Stack                         |
-| João Gabriel       | Backend, UI/UX                               |
+| João Pedro         | Backend, Frontend, Full Stack                |
+| João Gabriel       | Backend, Frontend, UI/UX                     |
 | Matheus Musashi    | Backend, DevOps, Full Stack, QA              |
 | Carolina Maikuma   | UI/UX, QA                                    |
-| Felipe Rodrigues   | Full Stack, Modelador de Dados, Backend      |
 | Gabriel Soares     | Frontend, UI/UX, Modelagem de Dados          |
 
 ## 🌐 Onde o projeto está sendo desenvolvido?
