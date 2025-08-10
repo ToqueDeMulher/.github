@@ -1,6 +1,8 @@
-![Banner](BannerTM.png)
+<p align="center">
+  <img src="BannerTM.png" alt="Banner Toque de Mulher" width="100%">
+</p>
 
-# Toque de Mulher
+# 💄 Toque de Mulher
 
 **Organização dedicada ao desenvolvimento do ecossistema digital da loja Toque de Mulher.**  
 Aqui você encontra os repositórios e documentações relacionados ao e-commerce da marca.
@@ -24,27 +26,15 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
 - Reduzir o tempo gasto com tarefas operacionais.
 - Oferecer uma experiência de compra moderna e acessível.
 
-## 👥 Equipe
-
-Equipe multidisciplinar formada por estudantes de Ciência da Computação, responsáveis por diversas frentes do desenvolvimento:
-
-| Nome               | Funções                                      |
-|--------------------|----------------------------------------------|
-| Maria Eduarda      | Gerente de Projeto, Full Stack, QA           |
-| Gustavo Henrique   | Backend, Frontend, Modelagem de Dados        |
-| João Pedro         | Backend, Frontend, Full Stack                |
-| João Gabriel       | Backend, Frontend, UI/UX                     |
-| Matheus Musashi    | Backend, DevOps, Full Stack, QA              |
-| Carolina Maikuma   | UI/UX, QA                                    |
-| Gabriel Soares     | Frontend, UI/UX, Modelagem de Dados          |
-
 ## 🌐 Onde o projeto está sendo desenvolvido?
 
-- Código-fonte e organização dos repositórios: [GitHub](https://github.com)
-- Documentação técnica e de projeto: [`docs`](https://docs.google.com/document/d/1z5q9DrDMNDiX6jN4TAneIHm9j3ENk4r6LJFaLApvh0U/edit?usp=drivesdk)
-- Planejamento e tarefas: Planilha/Google Drive
+- **Código-fonte e repositórios:** [GitHub](https://github.com)
+- **Documentação técnica:** [`docs`](https://docs.google.com/document/d/1z5q9DrDMNDiX6jN4TAneIHm9j3ENk4r6LJFaLApvh0U/edit?usp=drivesdk)
+- **Planejamento e tarefas:** Google Drive / Planilhas
 
-### Estrutura dos Repositórios
+---
+
+### 📂 Estrutura dos Repositórios
 
 | Repositório      | Descrição                                     |
 |------------------|-----------------------------------------------|
@@ -56,12 +46,69 @@ Equipe multidisciplinar formada por estudantes de Ciência da Computação, resp
 
 ## 📅 Milestones
 
-- Status atual: **Em desenvolvimento**  
-- Entrega do MVP: **Dezembro de 2025**
+- **Status atual:** Em desenvolvimento  
+- **Entrega do MVP:** Dezembro de 2025
+
+<h2 id="autores">✍️ Autores</h2>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/marichoii">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472433?v=4?s=400" width="80px;" alt="Foto de Maria Eduarda"/>
+                <br/>
+                <b>Maria</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Gustavo">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gustavo Henrique"/>
+                <br/>
+                <b>Gustavo</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JoaoPedro">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de João Pedro"/>
+                <br/>
+                <b>João Pedro</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JoaoGabriel">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472751?v=4s=400" width="80px;" alt="Foto de João Gabriel"/>
+                <br/>
+                <b>João Gabriel</b>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/MatheusMusashi">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472450?v=4s=400" width="80px;" alt="Foto de Matheus Musashi"/>
+                <br/>
+                <b>Musashi</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/CarolinaMaikuma">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472626?v=4s=400" width="80px;" alt="Foto de Carolina Maikuma"/>
+                <br/>
+                <b>Carolina</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/GabrielSoares">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gabriel Soares"/>
+                <br/>
+                <b>Gabriel</b>
+            </a>
+        </td>
+    </tr>
+</table>
 
 ---
 
 ## 📬 Contato
 
-Para dúvidas ou sugestões, entre em contato com a gerente de projeto:  
-**Maria Eduarda de Moura Eguchi** — [LinkedIn](https://www.linkedin.com/in/marichoii/))
+📧 **Maria Eduarda de Moura Eguchi** — [LinkedIn](https://www.linkedin.com/in/marichoii/)
