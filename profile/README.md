@@ -1,3 +1,5 @@
+![Banner](Banner.png)
+
 # Toque de Mulher
 
 **Organização dedicada ao desenvolvimento do ecossistema digital da loja Toque de Mulher.**  
