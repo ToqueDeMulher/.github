@@ -53,60 +53,75 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
 <h2 id="autores">✍️ Autores</h2>
 
 <table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/marichoii">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472433?v=4?s=400" width="80px;" alt="Foto de Maria Eduarda"/>
-                <br/>
-                <b>Maria</b>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/GuHenriquee">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gustavo Henrique"/>
-                <br/>
-                <b>Gustavo</b>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Jpzin1">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de João Pedro"/>
-                <br/>
-                <b>João Pedro</b>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/joaodelabio">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472751?v=4s=400" width="80px;" alt="Foto de João Gabriel"/>
-                <br/>
-                <b>João Gabriel</b>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/MatheusMusashiTanaka">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472450?v=4s=400" width="80px;" alt="Foto de Matheus Musashi"/>
-                <br/>
-                <b>Musashi</b>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/ccarolmdlima">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472626?v=4s=400" width="80px;" alt="Foto de Carolina Maikuma"/>
-                <br/>
-                <b>Carolina</b>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Zouares">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gabriel Soares"/>
-                <br/>
-                <b>Gabriel</b>
-            </a>
-        </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/marichoii">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472433?v=4?s=400" width="80px;" alt="Foto de Maria Eduarda"/>
+        <br/>
+        <b>Maria</b>
+        <br/>
+      </a>
+        Dev Backend, Dev Frontend, Modelador de Dados
+    </td>
+    <td align="center">
+      <a href="https://github.com/GuHenriquee">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gustavo Henrique"/>
+        <br/>
+        <b>Gustavo Henrique</b>
+        <br/>
+      </a>
+        Dev Backend, Dev Frontend, Modelador de Dados
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jpzin1">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de João Pedro"/>
+        <br/>
+        <b>João Pedro</b>
+        <br/>
+      </a>
+        Dev Backend, Dev Frontend, Modelador de Dados
+    </td>
+    <td align="center">
+      <a href="https://github.com/joaodelabio">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472751?v=4?s=400" width="80px;" alt="Foto de João Gabriel"/>
+        <br/>
+        <b>João Gabriel</b>
+        <br/>
+      </a>
+        Dev Backend, Dev Frontend, Modelador de Dados
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MatheusMusashiTanaka">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472450?v=4?s=400" width="80px;" alt="Foto de Matheus Musashi"/>
+        <br/>
+        <b>Musashi</b>
+        <br/>
+      </a>
+        Dev Backend, Dev Frontend, Modelador de Dados
+    </td>
+    <td align="center">
+      <a href="https://github.com/ccarolmdlima">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472626?v=4?s=400" width="80px;" alt="Foto de Carolina Maikuma"/>
+        <br/>
+        <b>Carolina</b>
+        <br/>
+      </a>
+        Dev Backend, Dev Frontend, Modelador de Dados
+    </td>
+    <td align="center">
+      <a href="https://github.com/Zouares">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gabriel Soares"/>
+        <br/>
+        <b>Gabriel</b>
+        <br/>
+      </a>
+        Dev Backend, Dev Frontend, Modelador de Dados
+    </td>
+  </tr>
 </table>
+
 
 ---
 
