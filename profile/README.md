@@ -61,7 +61,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
         <b>Maria</b>
         <br/>
       </a>
-        Dev Backend, Dev Frontend, Modelador de Dados
+        Gerente do Projeto, DevOps, Fullstack, QA
     </td>
     <td align="center">
       <a href="https://github.com/GuHenriquee">
@@ -79,7 +79,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
         <b>João Pedro</b>
         <br/>
       </a>
-        Dev Backend, Dev Frontend, Modelador de Dados
+        Dev Frontend, Dev Backend, Fullstack
     </td>
     <td align="center">
       <a href="https://github.com/joaodelabio">
@@ -88,7 +88,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
         <b>João Gabriel</b>
         <br/>
       </a>
-        Dev Backend, Dev Frontend, Modelador de Dados
+        Dev Backend, Dev Frontend, Designer UI/UX
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
         <b>Musashi</b>
         <br/>
       </a>
-        Dev Backend, Dev Frontend, Modelador de Dados
+        Dev Backend, DevOps, Fullstack, QA
     </td>
     <td align="center">
       <a href="https://github.com/ccarolmdlima">
@@ -108,7 +108,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
         <b>Carolina</b>
         <br/>
       </a>
-        Dev Backend, Dev Frontend, Modelador de Dados
+        Designer UI/UX, QA
     </td>
     <td align="center">
       <a href="https://github.com/Zouares">
@@ -117,7 +117,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
         <b>Gabriel</b>
         <br/>
       </a>
-        Dev Backend, Dev Frontend, Modelador de Dados
+        Dev Frontend, Designer UI/UX, Modelador de Dados
     </td>
   </tr>
 </table>
