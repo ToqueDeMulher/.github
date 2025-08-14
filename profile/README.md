@@ -38,11 +38,9 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
 
 | Repositório      | Descrição                                     |
 |------------------|-----------------------------------------------|
-| `site-frontend`  | Interface do usuário final e painel do cliente |
-| `site-backend`   | API, banco de dados, autenticação              |
-| `design`         | Protótipos, identidade visual, UI/UX           |
-| `docs`           | Documentação técnica e de projeto              |
-| `assets`         | Imagens, logos e recursos gráficos             |
+| `ToqueDeMulher-Develop`     | Repositório central do desenvolvimento — inclui frontend e backend integrados |
+| `.github`         | Configurações, templates e automações do repositório    |
+| `license`         | Arquivo de licença e termos de uso                      |
 
 ## 📅 Milestones
 
