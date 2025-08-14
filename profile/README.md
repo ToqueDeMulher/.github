@@ -38,8 +38,9 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
 
 | Repositório      | Descrição                                     |
 |------------------|-----------------------------------------------|
-| `ToqueDeMulher-Develop`     | Repositório central do desenvolvimento — inclui frontend e backend integrados |
+| `ToqueDeMulher-Develop` | Repositório central do desenvolvimento — inclui frontend e backend integrados |
 | `.github`         | Configurações, templates e automações do repositório    |
+| `docs`            | Documentação técnica e de projeto                       |
 | `license`         | Arquivo de licença e termos de uso                      |
 
 ## 📅 Milestones
