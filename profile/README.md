@@ -28,7 +28,7 @@ Atualmente, a loja opera de forma física e manual, o que limita o alcance e a e
 
 ## 🌐 Onde o projeto está sendo desenvolvido?
 
-- **Código-fonte e repositórios:** [GitHub](https://github.com)
+- **Código-fonte e repositórios:** [`GitHub`]([https://github.com](https://github.com/ToqueDeMulher/ToqueDeMulher-Develop))
 - **Documentação técnica:** [`Google Docs`](https://docs.google.com/document/d/1z5q9DrDMNDiX6jN4TAneIHm9j3ENk4r6LJFaLApvh0U/edit?usp=drivesdk) [`Docs`](https://github.com/ToqueDeMulher/docs)
 - **Planejamento e tarefas:** [`Github Projects`](https://github.com/orgs/ToqueDeMulher/projects/2)
 
