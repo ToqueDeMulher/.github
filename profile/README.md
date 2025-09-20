@@ -3,11 +3,8 @@
 </p>
 
 # 💄 Toque de Mulher: Projeto de E-commerce
-Este repositório contém o código e a documentação do projeto de desenvolvimento de um e-commerce para a loja 
-<p>Toque de Mulher, especializada na venda de perfumes importados originais e maquiagens.
-O projeto está sendo desenvolvido em resposta à necessidade da cliente de estabelecer uma presença digital 
-para sua empresa. O objetivo principal é automatizar processos de venda e atendimento, com a meta de reduzir 
-em até 80% o tempo dedicado a tarefas operacionais na loja física.</p>
+Este repositório contém o código e a documentação do projeto de desenvolvimento de um e-commerce para a loja **Toque de Mulher**, especializada na venda de perfumes importados originais e maquiagens.
+<p>O projeto está sendo desenvolvido em resposta à necessidade da cliente de estabelecer uma presença digital para sua empresa. O objetivo principal é automatizar processos de venda e atendimento, com a meta de reduzir em até 80% o tempo dedicado a tarefas operacionais na loja física.</p>
 
 ## 📌 Sobre o Projeto
 Atualmente, o alcance comercial da cliente está limitado à sua localização física, o que restringe o volume de 
