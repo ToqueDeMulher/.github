@@ -2,32 +2,49 @@
   <img src="BannerTM.png" alt="Banner Toque de Mulher" width="100%">
 </p>
 
-# 💄 Toque de Mulher
+# 💄 Toque de Mulher: Projeto de E-commerce
+Este repositório contém o código e a documentação do projeto de desenvolvimento de um e-commerce para a loja 
+<p>Toque de Mulher, especializada na venda de perfumes importados originais e maquiagens.
+O projeto está sendo desenvolvido em resposta à necessidade da cliente de estabelecer uma presença digital 
+para sua empresa. O objetivo principal é automatizar processos de venda e atendimento, com a meta de reduzir 
+em até 80% o tempo dedicado a tarefas operacionais na loja física.</p>
 
-**Organização dedicada ao desenvolvimento do ecossistema digital da loja Toque de Mulher.**  
-Aqui você encontra os repositórios e documentações relacionados ao e-commerce da marca.
+## 📌 Sobre o Projeto
+Atualmente, o alcance comercial da cliente está limitado à sua localização física, o que restringe o volume de 
+vendas e a aquisição de novos clientes. O site tem como propósito expandir esse alcance para uma audiência regional, 
+nacional e, se viável, internacional.
 
-## 📌 Sobre
+<P>O resultado final será um site que facilite a vida da cliente e dos usuários , permitindo que a cliente expanda 
+seu negócio e que os usuários não dependam mais apenas do meio físico para comprar o que desejam.</P>
 
-Um sistema completo de e-commerce para a loja Toque de Mulher, com as seguintes funcionalidades:
+## 🎯 Funcionalidades e Objetivos
+O projeto terá duas interfaces diferentes: uma para o uso do cliente (administrador) e outra para o usuário final.
 
-- Interface web dividida entre cliente (admin) e usuário final.
-- Automatização de processos: controle de estoque, pedidos e atendimento.
-- Integração de métodos de pagamento e gerenciamento de usuários.
-- Design responsivo com identidade visual personalizada.
-- Backend robusto com autenticação, banco de dados e APIs RESTful.
+**Funcionalidades para o Cliente (Admin):**
+- Cadastrar produtos em estoque e fornecedores.
+- Controlar as quantidades dos produtos em estoque.
+- Gerar relatórios e gráficos sobre as vendas em um determinado período de tempo.
+- Ter acesso a informações de usuário, como localização, para fins comerciais.
 
-## 🎯 Por que este projeto?
+**Funcionalidades para o Usuário Final:**
+- Fazer cadastro e login  no site.
+- Alterar suas informações e apagar suas contas.
+- Achar os produtos que procuram através de uma interface intuitiva.
+- Adicionar produtos ao carrinho e pagar por eles.
 
-Atualmente, a loja opera de forma física e manual, o que limita o alcance e a eficiência da operação. Este projeto busca:
+**Automação:**
+- Os produtos vendidos (meio físico e digital) serão retirados do estoque de forma automática.
 
-- Digitalizar os processos de venda e atendimento.
-- Expandir o alcance da marca no mercado online.
-- Reduzir o tempo gasto com tarefas operacionais.
-- Oferecer uma experiência de compra moderna e acessível.
+## 🌐 Cronograma Preliminar
+O projeto será dividido por prioridade e urgência. O cronograma estimado é o seguinte:
 
-## 🌐 Onde o projeto está sendo desenvolvido?
+- **Fase 1: Planejamento e Design (UI/UX):** Levantamento de requisitos, modelagem de dados e design das interfaces. **Prazo estimado: 2-3 semanas.**
+- **Fase 2: Desenvolvimento do Backend e Frontend (MVP):** Implementação das funcionalidades essenciais para o cliente (cadastro de produtos, fornecedores e controle de estoque) e para os usuários (cadastro, login, busca e pagamento). **Prazo estimado: 6-8 semanas.**
+- **Fase 3: Testes e Refinamentos (QA):** A equipe realizará testes para garantir que todas as funcionalidades estejam operando corretamente e fará os ajustes finais com base no feedback do cliente. **Prazo estimado: 2 semanas.**
+- **Fase 4: Lançamento e Treinamento:** A entrega final do site para o cliente e o treinamento para que ele possa utilizar a plataforma de forma autônoma. **Prazo estimado: 1 semana.**
 
+Status Atual: Em desenvolvimento
+Entrega do MVP: Dezembro de 2025
 - **Código-fonte e repositórios:** [`GitHub`]([https://github.com](https://github.com/ToqueDeMulher/ToqueDeMulher-Develop))
 - **Documentação técnica:** [`Google Docs`](https://docs.google.com/document/d/1z5q9DrDMNDiX6jN4TAneIHm9j3ENk4r6LJFaLApvh0U/edit?usp=drivesdk) [`Docs`](https://github.com/ToqueDeMulher/docs) [`Docs de Visão`](https://docs.google.com/document/d/1t68K3LTAEds4TblmL1EGctIqNxgdZg6bVfuVNOxPfbc/edit?usp=sharing)
 - **Planejamento e tarefas:** [`Github Projects`](https://github.com/orgs/ToqueDeMulher/projects/2)
