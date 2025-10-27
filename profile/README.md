@@ -3,7 +3,7 @@
 </p>
 
 # 💄 Projeto de E-commerce: Toque de Mulher
-<p>Este repositório contém a documentação e o código-fonte da plataforma de e-commerce desenvolvida para a **Toque de Mulher**, uma loja especializada na curadoria e venda de perfumes importados e maquiagens de prestígio.</p>
+Este repositório contém a documentação e o código-fonte da plataforma de e-commerce desenvolvida para a **Toque de Mulher**, uma loja especializada na curadoria e venda de perfumes importados e maquiagens de prestígio.
 <p>O projeto é uma resposta estratégica à necessidade de digitalizar a operação da empresa, que atualmente dedica até 80% do tempo de sua equipe a processos manuais, limitando o crescimento e a capacidade de venda. O objetivo é transformar o modelo de negócio, automatizar processos e expandir o alcance de mercado para os âmbitos regional e nacional.</p>
 
 ## 🎯 Objetivos Estratégicos
