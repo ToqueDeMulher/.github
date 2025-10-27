@@ -52,10 +52,10 @@ O projeto segue um plano de execução faseado para garantir entregas incrementa
 
 | Recurso        | Link                               |
 |----------------|------------------------------------|
-| Código Fonte   | Github (Toque de Mulher - Develop) |
-| Documentação   | Plano de Projeto                   |
-| Planejamento   | Github Projects                    |
-| Design (UI/UX) | Protótipo (Figma)                  |
+| Código Fonte   | [Github (Toque de Mulher - Develop)](https://github.com/ToqueDeMulher/ToqueDeMulher-Develop)                                     |
+| Documentação   | [Plano de Projeto](https://docs.google.com/document/d/1q2RpQx73R9VvXWAA4Yh1JgxskGFEAHO_TVBxDMB8oz4/edit?usp=sharing)             |
+| Planejamento   | [Github Projects](https://github.com/ToqueDeMulher/docs)                                                                         |
+| Design (UI/UX) | [Protótipo (Figma)](https://www.figma.com/design/XgXC1pTQv9zYcNEuIavnhJ/Toque-de-Mulher?node-id=0-1&p=f&t=mVPwfAH71IYGfAfU-0)    |
 
 ---
 
