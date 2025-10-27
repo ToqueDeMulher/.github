@@ -2,65 +2,62 @@
   <img src="BannerTM.png" alt="Banner Toque de Mulher" width="100%">
 </p>
 
-# 💄 Toque de Mulher: Projeto de E-commerce
-Este repositório contém o código e a documentação do projeto de desenvolvimento de um e-commerce para a loja **Toque de Mulher**, especializada na venda de perfumes importados originais e maquiagens.
-<p>O projeto está sendo desenvolvido em resposta à necessidade da cliente de estabelecer uma presença digital para sua empresa. O objetivo principal é automatizar processos de venda e atendimento, com a meta de reduzir em até 80% o tempo dedicado a tarefas operacionais na loja física.</p>
+# 💄 Projeto de E-commerce: Toque de Mulher
+<p>Este repositório contém a documentação e o código-fonte da plataforma de e-commerce desenvolvida para a **Toque de Mulher**, uma loja especializada na curadoria e venda de perfumes importados e maquiagens de prestígio.</p>
+<p>O projeto é uma resposta estratégica à necessidade de digitalizar a operação da empresa, que atualmente dedica até 80% do tempo de sua equipe a processos manuais, limitando o crescimento e a capacidade de venda. O objetivo é transformar o modelo de negócio, automatizar processos e expandir o alcance de mercado para os âmbitos regional e nacional.</p>
 
-## 📌 Sobre o Projeto
-Atualmente, o alcance comercial da cliente está limitado à sua localização física, o que restringe o volume de 
-vendas e a aquisição de novos clientes. O site tem como propósito expandir esse alcance para uma audiência regional, 
-nacional e, se viável, internacional.
+## 🎯 Objetivos Estratégicos
+A plataforma foi projetada para resolver gargalos operacionais e posicionar a **"Toque de Mulher"** em um mercado de e-commerce de beleza em rápida expansão. Os objetivos centrais são:
+- **Excelência Operacional:** Reduzir em até 80% o tempo gasto com tarefas manuais de venda e gestão de inventário, liberando a equipe para focar em atividades estratégicas.
+- **Expansão de Mercado:** Ultrapassar as barreiras geográficas da loja física para capturar uma nova base de clientes em nível nacional.
+- **Diversificação de Receitas:** Estabelecer um canal de vendas digital robusto e escalável para complementar e, futuramente, superar as vendas da loja física.
+- **Fortalecimento da Marca:** Consolidar a "Toque de Mulher" como uma autoridade online em cosméticos de prestígio, associando a marca à qualidade, confiança e exclusividade.
 
-<P>O resultado final será um site que facilite a vida da cliente e dos usuários , permitindo que a cliente expanda 
-seu negócio e que os usuários não dependam mais apenas do meio físico para comprar o que desejam.</P>
+## ⚙️ Funcionalidades do MVP
+O escopo do projeto está focado em entregar um Produto Mínimo Viável (MVP) robusto, com funcionalidades essenciais divididas em duas interfaces principais.
 
-## 🎯 Funcionalidades e Objetivos
-O projeto terá duas interfaces diferentes: uma para o uso do cliente (administrador) e outra para o usuário final.
+### Loja Virtual (Interface do Usuário)
+- **Gestão de Contas (RF1):** Cadastro, login, edição de perfil e exclusão de conta de forma segura.
+- **Catálogo de Produtos (RF3):** Navegação intuitiva por categorias, sistema de busca com filtros avançados (marca, preço, etc.) e páginas de produto detalhadas.
+- **Carrinho e Checkout (RF4, RF5):** Carrinho de compras persistente e um processo de checkout simplificado, integrado a um gateway de pagamento seguro.
 
-**Funcionalidades para o Cliente (Admin):**
-- Cadastrar produtos em estoque e fornecedores.
-- Controlar as quantidades dos produtos em estoque.
-- Gerar relatórios e gráficos sobre as vendas em um determinado período de tempo.
-- Ter acesso a informações de usuário, como localização, para fins comerciais.
+### Painel Administrativo (Escritório Virtual)
+- **Gestão de Produtos e Inventário (RF6):** Ferramentas para adicionar, editar e remover produtos, com controle de estoque automatizado.
+- **Gestão de Fornecedores (RF6):** Sistema centralizado para gerenciar informações dos fornecedores.
+- **Gestão de Encomendas:** Painel para visualizar e processar todos os pedidos dos clientes.
+- **Relatórios e Análises (RF7):** Geração de relatórios de vendas, produtos mais vendidos e receita por categoria.
 
-**Funcionalidades para o Usuário Final:**
-- Fazer cadastro e login  no site.
-- Alterar suas informações e apagar suas contas.
-- Achar os produtos que procuram através de uma interface intuitiva.
-- Adicionar produtos ao carrinho e pagar por eles.
+## 🚀 Tecnologias
+A arquitetura da plataforma foi definida para garantir desempenho, escalabilidade e uma base sólida para futuras inovações
 
-**Automação:**
-- Os produtos vendidos (meio físico e digital) serão retirados do estoque de forma automática.
+| Camada          | Tecnologia        | Justificativa             |
+|-----------------|-------------------|---------------------------|
+| Frontend        | `Àngular`         | Para criar interfaces de usuário ricas e interativas, com uma arquitetura baseada em componentes que facilita a manutenção e escalabilidade |
+| Backend         | `Nodejs`          | Permite alta performance e escalabilidade para gerenciar múltiplas conexões simultâneas, ideal para e-commerce.                             |
+| Base de Dados   | `PostgreSQ`       | Opções flexíveis e robustas, escolhidas para garantir desde a agilidade no catálogo de produtos até a integridade transacional das vendas.  |
+| Infraestrutura  | `Vercel / Heroku` | Implementação em nuvem para garantir alta disponibilidade, escalabilidade automática e redução da sobrecarga operacional.                   |
 
-## 🌐 Cronograma Preliminar
-O projeto será dividido por prioridade e urgência. O cronograma estimado é o seguinte:
+--- 
 
-- **Fase 1: Planejamento e Design (UI/UX):** Levantamento de requisitos, modelagem de dados e design das interfaces. **Prazo estimado: 2-3 semanas.**
-- **Fase 2: Desenvolvimento do Backend e Frontend (MVP):** Implementação das funcionalidades essenciais para o cliente (cadastro de produtos, fornecedores e controle de estoque) e para os usuários (cadastro, login, busca e pagamento). **Prazo estimado: 6-8 semanas.**
-- **Fase 3: Testes e Refinamentos (QA):** A equipe realizará testes para garantir que todas as funcionalidades estejam operando corretamente e fará os ajustes finais com base no feedback do cliente. **Prazo estimado: 2 semanas.**
-- **Fase 4: Lançamento e Treinamento:** A entrega final do site para o cliente e o treinamento para que ele possa utilizar a plataforma de forma autônoma. **Prazo estimado: 1 semana.**
-
-Status Atual: Em desenvolvimento
-Entrega do MVP: Dezembro de 2025
-- **Código-fonte e repositórios:** [`GitHub`]([https://github.com](https://github.com/ToqueDeMulher/ToqueDeMulher-Develop))
-- **Documentação técnica:** [`Google Docs`](https://docs.google.com/document/d/1z5q9DrDMNDiX6jN4TAneIHm9j3ENk4r6LJFaLApvh0U/edit?usp=drivesdk) [`Docs`](https://github.com/ToqueDeMulher/docs) [`Docs de Visão`](https://docs.google.com/document/d/1t68K3LTAEds4TblmL1EGctIqNxgdZg6bVfuVNOxPfbc/edit?usp=sharing)
-- **Planejamento e tarefas:** [`Github Projects`](https://github.com/orgs/ToqueDeMulher/projects/2)
+### 📅 Roteiro de Implementação
+O projeto segue um plano de execução faseado para garantir entregas incrementais e previsibilidade.
+- **✅ Fase 1:** Planejamento e Design (2-3 semanas): Requisitos finalizados, modelagem da base de dados e protótipos de alta fidelidade criados no Figma.
+- **⏳ Fase 2:** Desenvolvimento do MVP (6-8 semanas): Implementação do backend e frontend com foco nas funcionalidades essenciais do admin e da loja virtual.
+- **🔜 Fase 3:** Testes e Garantia de Qualidade (2 semanas): Execução de testes funcionais, de usabilidade, desempenho e segurança. Correção de bugs e Teste de Aceitação do Utilizador (UAT).
+- **🔜 Fase 4:** Lançamento e Formação (1 semana): Implementação em produção (go-live), configurações finais e sessão de treinamento com a cliente.
 
 ---
 
-### 📂 Estrutura dos Repositórios
+## 🔗 Links Úteis
 
-| Repositório      | Descrição                                     |
-|------------------|-----------------------------------------------|
-| `ToqueDeMulher-Develop` | Repositório central do desenvolvimento — inclui frontend e backend integrados |
-| `.github`         | Configurações, templates e automações do repositório    |
-| `docs`            | Documentação técnica e de projeto                       |
-| `license`         | Arquivo de licença e termos de uso                      |
+| Recurso        | Link                               |
+|----------------|------------------------------------|
+| Código Fonte   | Github (Toque de Mulher - Develop) |
+| Documentação   | Plano de Projeto                   |
+| Planejamento   | Github Projects                    |
+| Design (UI/UX) | Protótipo (Figma)                  |
 
-## 📅 Milestones
-
-- **Status atual:** Em desenvolvimento  
-- **Entrega do MVP:** Dezembro de 2025
+---
 
 <h2 id="autores">✍️ Autores</h2>
 
