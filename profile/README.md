@@ -32,7 +32,7 @@ A arquitetura da plataforma foi definida para garantir desempenho, escalabilidad
 
 | Camada          | Tecnologia        | Justificativa             |
 |-----------------|-------------------|---------------------------|
-| Frontend        | `Àngular`         | Para criar interfaces de usuário ricas e interativas, com uma arquitetura baseada em componentes que facilita a manutenção e escalabilidade |
+| Frontend        | `React`           | Para criar interfaces de usuário ricas e interativas, com uma arquitetura baseada em componentes que facilita a manutenção e escalabilidade |
 | Backend         | `Nodejs`          | Permite alta performance e escalabilidade para gerenciar múltiplas conexões simultâneas, ideal para e-commerce.                             |
 | Base de Dados   | `PostgreSQ`       | Opções flexíveis e robustas, escolhidas para garantir desde a agilidade no catálogo de produtos até a integridade transacional das vendas.  |
 | Infraestrutura  | `Vercel / Heroku` | Implementação em nuvem para garantir alta disponibilidade, escalabilidade automática e redução da sobrecarga operacional.                   |
