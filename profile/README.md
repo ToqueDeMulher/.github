@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/github/last-commit/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Last Commit">
     <img src="https://img.shields.io/github/issues/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Issues">
-    <img src="https://img.shields.io/github/pull-requests/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Pull Requests">
+    <img src="https://img.shields.io/github/discussions/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Discussions">
   </p>
 </div>
 
