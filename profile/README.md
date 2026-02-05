@@ -1,139 +1,128 @@
-<p align="center">
-  <img src="BannerTM.png" alt="Banner Toque de Mulher" width="100%">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Toque%20de%20Mulher-E--commerce%20de%20Beleza-pink?style=for-the-badge&logo=beauty" alt="Toque de Mulher Logo">
+  <h1>💄 Toque de Mulher</h1>
+  <p><i>Transformando a beleza digital através de tecnologia e personalização.</i></p>
 
-# 💄 Projeto de E-commerce: Toque de Mulher
-Este repositório contém a documentação e o código-fonte da plataforma de e-commerce desenvolvida para a **Toque de Mulher**, uma loja especializada na curadoria e venda de perfumes importados e maquiagens de prestígio.
-<p>O projeto é uma resposta estratégica à necessidade de digitalizar a operação da empresa, que atualmente dedica até 80% do tempo de sua equipe a processos manuais, limitando o crescimento e a capacidade de venda. O objetivo é transformar o modelo de negócio, automatizar processos e expandir o alcance de mercado para os âmbitos regional e nacional.</p>
-
-## 🎯 Objetivos Estratégicos
-A plataforma foi projetada para resolver gargalos operacionais e posicionar a **"Toque de Mulher"** em um mercado de e-commerce de beleza em rápida expansão. Os objetivos centrais são:
-- **Excelência Operacional:** Reduzir em até 80% o tempo gasto com tarefas manuais de venda e gestão de inventário, liberando a equipe para focar em atividades estratégicas.
-- **Expansão de Mercado:** Ultrapassar as barreiras geográficas da loja física para capturar uma nova base de clientes em nível nacional.
-- **Diversificação de Receitas:** Estabelecer um canal de vendas digital robusto e escalável para complementar e, futuramente, superar as vendas da loja física.
-- **Fortalecimento da Marca:** Consolidar a "Toque de Mulher" como uma autoridade online em cosméticos de prestígio, associando a marca à qualidade, confiança e exclusividade.
-
-## ⚙️ Funcionalidades do MVP
-O escopo do projeto está focado em entregar um Produto Mínimo Viável (MVP) robusto, com funcionalidades essenciais divididas em duas interfaces principais.
-
-### Loja Virtual (Interface do Usuário)
-- **Gestão de Contas (RF1):** Cadastro, login, edição de perfil e exclusão de conta de forma segura.
-- **Catálogo de Produtos (RF3):** Navegação intuitiva por categorias, sistema de busca com filtros avançados (marca, preço, etc.) e páginas de produto detalhadas.
-- **Carrinho e Checkout (RF4, RF5):** Carrinho de compras persistente e um processo de checkout simplificado, integrado a um gateway de pagamento seguro.
-
-### Painel Administrativo (Escritório Virtual)
-- **Gestão de Produtos e Inventário (RF6):** Ferramentas para adicionar, editar e remover produtos, com controle de estoque automatizado.
-- **Gestão de Fornecedores (RF6):** Sistema centralizado para gerenciar informações dos fornecedores.
-- **Gestão de Encomendas:** Painel para visualizar e processar todos os pedidos dos clientes.
-- **Relatórios e Análises (RF7):** Geração de relatórios de vendas, produtos mais vendidos e receita por categoria.
-
-## 🚀 Tecnologias
-A arquitetura da plataforma foi definida para garantir desempenho, escalabilidade e uma base sólida para futuras inovações
-
-| Camada          | Tecnologia        | Justificativa             |
-|-----------------|-------------------|---------------------------|
-| Frontend        | `React`           | Para criar interfaces de usuário ricas e interativas, com uma arquitetura baseada em componentes que facilita a manutenção e escalabilidade |
-| Backend         | `Nodejs`          | Permite alta performance e escalabilidade para gerenciar múltiplas conexões simultâneas, ideal para e-commerce.                             |
-| Base de Dados   | `PostgreSQ`       | Opções flexíveis e robustas, escolhidas para garantir desde a agilidade no catálogo de produtos até a integridade transacional das vendas.  |
-| Infraestrutura  | `Vercel / Heroku` | Implementação em nuvem para garantir alta disponibilidade, escalabilidade automática e redução da sobrecarga operacional.                   |
-
---- 
-
-### 📅 Roteiro de Implementação
-O projeto segue um plano de execução faseado para garantir entregas incrementais e previsibilidade.
-- **✅ Fase 1:** Planejamento e Design (2-3 semanas): Requisitos finalizados, modelagem da base de dados e protótipos de alta fidelidade criados no Figma.
-- **⏳ Fase 2:** Desenvolvimento do MVP (6-8 semanas): Implementação do backend e frontend com foco nas funcionalidades essenciais do admin e da loja virtual.
-- **🔜 Fase 3:** Testes e Garantia de Qualidade (2 semanas): Execução de testes funcionais, de usabilidade, desempenho e segurança. Correção de bugs e Teste de Aceitação do Utilizador (UAT).
-- **🔜 Fase 4:** Lançamento e Formação (1 semana): Implementação em produção (go-live), configurações finais e sessão de treinamento com a cliente.
+  <p>
+    <img src="https://img.shields.io/github/last-commit/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Last Commit">
+    <img src="https://img.shields.io/github/issues/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Issues">
+    <img src="https://img.shields.io/github/pull-requests/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Pull Requests">
+  </p>
+</div>
 
 ---
 
-## 🔗 Links Úteis
+## 📖 Sobre o Projeto
 
-| Recurso        | Link                               |
-|----------------|------------------------------------|
-| Código Fonte   | [Github (Toque de Mulher - Develop)](https://github.com/ToqueDeMulher/ToqueDeMulher-Develop)                                     |
-| Documentação   | [Plano de Projeto](https://docs.google.com/document/d/1q2RpQx73R9VvXWAA4Yh1JgxskGFEAHO_TVBxDMB8oz4/edit?usp=sharing)             |
-| Planejamento   | [Github Projects](https://github.com/ToqueDeMulher/docs)                                                                         |
-| Design (UI/UX) | [Protótipo (Figma)](https://www.figma.com/design/XgXC1pTQv9zYcNEuIavnhJ/Toque-de-Mulher?node-id=0-1&p=f&t=mVPwfAH71IYGfAfU-0)    |
+O **Toque de Mulher** é um ecossistema digital de beleza de próxima geração. Nossa missão é oferecer mais do que produtos: entregamos uma consultoria de beleza inteligente, utilizando o que há de mais moderno no desenvolvimento web para criar uma experiência de compra imersiva, rápida e personalizada.
+
+### ✨ Funcionalidades de Destaque
+- 🤖 **Routine Builder:** Assistente inteligente que monta seu kit de cuidados ideal.
+- 🌓 **Dark Mode Dinâmico:** Interface otimizada para destacar a fidelidade das cores dos produtos.
+- ⚡ **Performance PWA:** Experiência de aplicativo nativo com suporte offline.
+- 📊 **Beauty Specs:** Comparador técnico de atributos sensoriais e ativos.
 
 ---
 
-<h2 id="autores">✍️ Autores</h2>
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+</div>
+
+---
+
+## 📅 Roadmap de Evolução
+
+| Fase | Status | Descrição |
+| :--- | :---: | :--- |
+| **Fase 1-3** | ✅ | Estrutura Base, Auth, Design UI/UX e Protótipo Inicial. |
+| **Fase 4** | 🚀 | Implementação de PWA, Offline Mode e Dashboards. |
+| **Fase 5** | 🎨 | Dark Mode Dinâmico e Micro-interações (Framer Motion). |
+| **Fase 6** | 🧠 | Routine Builder e Comparador Inteligente (Beauty Tech). |
+| **Fase 7** | 🏆 | Programa de Fidelidade Gamificado (Tiered Loyalty). |
+
+---
+
+## 👥 Nosso Time
+
+Conheça as mentes brilhantes por trás do **Toque de Mulher**:
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/marichoii">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472433?v=4?s=400" width="80px;" alt="Foto de Maria Eduarda"/>
-        <br/>
-        <b>Maria</b>
-        <br/>
-      </a>
-        Gerente do Projeto, DevOps, Fullstack, QA
+      <a href="https://github.com/Marichoii">
+        <img src="https://avatars.githubusercontent.com/u/126472433?v=4" width="100px;" alt="Maria Eduarda"/><br />
+        <sub><b>Maria Eduarda</b></sub>
+      </a><br />
+      👑 Product Owner / Design
     </td>
     <td align="center">
-      <a href="https://github.com/GuHenriquee">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gustavo Henrique"/>
-        <br/>
-        <b>Gustavo Henrique</b>
-        <br/>
-      </a>
-        Dev Backend, Dev Frontend, Modelador de Dados
-    </td>
-    <td align="center">
-      <a href="https://github.com/Jpzin1">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de João Pedro"/>
-        <br/>
-        <b>João Pedro</b>
-        <br/>
-      </a>
-        Dev Frontend, Dev Backend, Fullstack
+      <a href="https://github.com/MatheusMusashiTanaka">
+        <img src="https://avatars.githubusercontent.com/u/126472450?v=4" width="100px;" alt="Matheus Musashi"/><br />
+        <sub><b>Matheus Musashi</b></sub>
+      </a><br />
+      💻 Tech Lead / Backend
     </td>
     <td align="center">
       <a href="https://github.com/joaodelabio">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472751?v=4?s=400" width="80px;" alt="Foto de João Gabriel"/>
-        <br/>
-        <b>João Gabriel</b>
-        <br/>
-      </a>
-        Dev Backend, Dev Frontend, Designer UI/UX
+        <img src="https://avatars.githubusercontent.com/u/126472751?v=4" width="100px;" alt="João Gabriel"/><br />
+        <sub><b>João Gabriel</b></sub>
+      </a><br />
+      🛠️ Fullstack Developer
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/MatheusMusashiTanaka">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472450?v=4?s=400" width="80px;" alt="Foto de Matheus Musashi"/>
-        <br/>
-        <b>Musashi</b>
-        <br/>
-      </a>
-        Dev Backend, DevOps, Fullstack, QA
+      <a href="https://github.com/Jpzin1">
+        <img src="https://avatars.githubusercontent.com/u/161030050?v=4" width="100px;" alt="João Pedro Holanda"/><br />
+        <sub><b>João Pedro</b></sub>
+      </a><br />
+      📱 PWA / Frontend
+    </td>
+    <td align="center">
+      <a href="https://github.com/GuHenriquee">
+        <img src="https://avatars.githubusercontent.com/u/197537829?v=4" width="100px;" alt="Gustavo Henrique"/><br />
+        <sub><b>Gustavo Henrique</b></sub>
+      </a><br />
+      📊 Backend / Data
     </td>
     <td align="center">
       <a href="https://github.com/ccarolmdlima">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472626?v=4?s=400" width="80px;" alt="Foto de Carolina Maikuma"/>
-        <br/>
-        <b>Carolina</b>
-        <br/>
-      </a>
-        Designer UI/UX, QA
+        <img src="https://avatars.githubusercontent.com/u/126472626?v=4" width="100px;" alt="Carolina"/><br />
+        <sub><b>Carolina</b></sub>
+      </a><br />
+      🎨 Frontend / UI
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <a href="https://github.com/Zouares">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/000000000?v=4" width="80px;" alt="Foto de Gabriel Soares"/>
-        <br/>
-        <b>Gabriel</b>
-        <br/>
-      </a>
-        Dev Frontend, Designer UI/UX, Modelador de Dados
+        <img src="https://avatars.githubusercontent.com/u/115197009?v=4" width="100px;" alt="Gabriel Soares"/><br />
+        <sub><b>Gabriel Soares</b></sub>
+      </a><br />
+      🖌️ UI/UX Designer
     </td>
   </tr>
 </table>
 
+---
+
+## 🤝 Como Contribuir
+
+1. Faça um **Fork** do projeto.
+2. Crie uma **Branch** para sua feature (`git checkout -b feature/NovaFeature`).
+3. Faça o **Commit** de suas alterações (`git commit -m 'Add: Nova Feature'`).
+4. Envie para a Branch (`git push origin feature/NovaFeature`).
+5. Abra um **Pull Request**.
 
 ---
 
-## 📬 Contato
-
-📧 **Maria Eduarda de Moura Eguchi** — [LinkedIn](https://www.linkedin.com/in/marichoii/)
+<div align="center">
+  <sub>Desenvolvido com ❤️ pela equipe Toque de Mulher. © 2026</sub>
+</div>
