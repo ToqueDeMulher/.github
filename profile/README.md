@@ -7,9 +7,8 @@
   <p><i>Transformando a beleza digital através de tecnologia e personalização.</i></p>
 
   <p>
-    <img src="https://img.shields.io/github/last-commit/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Last Commit">
-    <img src="https://img.shields.io/github/issues/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Issues">
-    <img src="https://img.shields.io/github/discussions/ToqueDeMulher/ToqueDeMulher-Develop?style=flat-square&color=ff69b4" alt="Discussions">
+    <img src="https://img.shields.io/github/last-commit/ToqueDeMulher/toquedemulher-frontend?style=flat-square&color=ff69b4" alt="Front-end Last Commit">
+    <img src="https://img.shields.io/github/issues/ToqueDeMulher/toquedemulher-backend?style=flat-square&color=ff69b4" alt="Issues">
   </p>
 </div>
 
