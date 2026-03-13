@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BannerTM.png" alt="Banner Toque de Mulher" width="100%">
+  <img src="Semtítulo.gif" alt="Banner Toque de Mulher" width="100%">
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Toque%20de%20Mulher-E--commerce%20de%20Beleza-pink?style=for-the-badge&logo=beauty" alt="Toque de Mulher Logo">
