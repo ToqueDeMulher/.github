@@ -1,16 +1,14 @@
-
-
 <p align="center">
   <img src="BannerTDM.gif" alt="Banner Toque de Mulher" width="100%">
 </p>
 
 <p align="center">
-  <img alt="E-commerce" src="https://img.shields.io/badge/e--commerce-beleza%20%26%20cosm%C3%A9ticos-222222?style=flat-square&logo=shopify&logoColor=white">
-  <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-ff69b4?style=flat-square&logo=statuspage&logoColor=white">
-  <p align="center">
+  <img alt="E-commerce" src="https://img.shields.io/badge/e--commerce-beleza%20%26%20cosm%C3%A9ticos-222222?style=for-the-badge&logo=shopify&logoColor=white">
+  <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-ff69b4?style=for-the-badge&logo=statuspage&logoColor=white">
+</p>
+<p align="center">
   <img alt="Issues" src="https://img.shields.io/github/issues/ToqueDeMulher/toquedemulher-backend?style=flat-square&color=f5c518&logo=github&logoColor=black">
   <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ToqueDeMulher/toquedemulher-frontend?style=flat-square&color=f5c518&logo=github&logoColor=black">
-  <p>
 </p>
 
 <br>
