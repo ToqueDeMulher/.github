@@ -1,13 +1,4 @@
----
-<p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-status-do-projeto">Status</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-como-executar">Como Executar</a> •
-  <a href="#-como-contribuir">Como Contribuir</a>
-</p>
 
----
 
 <p align="center">
   <img src="BannerTDM.gif" alt="Banner Toque de Mulher" width="100%">
