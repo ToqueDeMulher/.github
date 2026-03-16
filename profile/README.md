@@ -4,8 +4,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Toque%20de%20Mulher-E--commerce%20de%20Beleza-pink?style=for-the-badge" alt="Toque de Mulher">
+  <p>
     <img src="https://img.shields.io/github/last-commit/ToqueDeMulher/toquedemulher-frontend?style=flat-square&color=ff69b4" alt="Frontend last commit">
     <img src="https://img.shields.io/github/issues/ToqueDeMulher/toquedemulher-backend?style=flat-square&color=ff69b4" alt="Backend issues">
+    <p>
 </div>
 
 ---
