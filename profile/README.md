@@ -87,7 +87,7 @@ Contribuições são bem-vindas. Siga o fluxo padrão de desenvolvimento do GitH
         <img src="https://avatars.githubusercontent.com/u/126472433?v=4" width="80px;" alt="Maria Eduarda"/><br />
         <sub><b>Maria Eduarda</b></sub>
       </a><br />
-      <sub>Product Owner · Fullstack</sub>
+      <sub>PO · Fullstack</sub>
     </td>
     <td align="center">
       <a href="https://github.com/MatheusMusashiTanaka">
