@@ -87,7 +87,7 @@ Contribuições são bem-vindas. Siga o fluxo padrão de desenvolvimento do GitH
         <img src="https://avatars.githubusercontent.com/u/126472433?v=4" width="80px;" alt="Maria Eduarda"/><br />
         <sub><b>Maria Eduarda</b></sub>
       </a><br />
-      <sub>Product Owner · Design</sub>
+      <sub>Product Owner · Fullstack</sub>
     </td>
     <td align="center">
       <a href="https://github.com/MatheusMusashiTanaka">
@@ -97,25 +97,11 @@ Contribuições são bem-vindas. Siga o fluxo padrão de desenvolvimento do GitH
       <sub>Tech Lead · Backend</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/joaodelabio">
-        <img src="https://avatars.githubusercontent.com/u/126472751?v=4" width="80px;" alt="João Gabriel"/><br />
-        <sub><b>João Gabriel</b></sub>
-      </a><br />
-      <sub>Fullstack Developer</sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/Jpzin1">
         <img src="https://avatars.githubusercontent.com/u/161030050?v=4" width="80px;" alt="João Pedro"/><br />
         <sub><b>João Pedro</b></sub>
       </a><br />
-      <sub>PWA · Frontend</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/GuHenriquee">
-        <img src="https://avatars.githubusercontent.com/u/197537829?v=4" width="80px;" alt="Gustavo Henrique"/><br />
-        <sub><b>Gustavo Henrique</b></sub>
-      </a><br />
-      <sub>Backend · Data</sub>
+      <sub>PWA · Fullstack</sub>
     </td>
     <td align="center">
       <a href="https://github.com/ccarolmdlima">
