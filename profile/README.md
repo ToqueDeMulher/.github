@@ -3,125 +3,119 @@
 </p>
 
 <p align="center">
-  <img alt="E-commerce" src="https://img.shields.io/badge/e--commerce-beleza%20%26%20cosm%C3%A9ticos-222222?style=for-the-badge&logo=shopify&logoColor=white">
-  <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-ff69b4?style=for-the-badge&logo=statuspage&logoColor=white">
-</p>
-<p align="center">
-  <img alt="Issues" src="https://img.shields.io/github/issues/ToqueDeMulher/toquedemulher-backend?style=flat-square&color=f5c518&logo=github&logoColor=black">
-  <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ToqueDeMulher/toquedemulher-frontend?style=flat-square&color=f5c518&logo=github&logoColor=black">
+  <img alt="E-commerce" src="https://img.shields.io/badge/e--commerce-beleza%20%26%20cosmeticos-222222?style=for-the-badge&logo=shopify&logoColor=white">
+  <img alt="Status" src="https://img.shields.io/badge/status-MVP%20demonstravel%20em%20validacao-111111?style=for-the-badge&logo=statuspage&logoColor=white">
+  <img alt="Stack" src="https://img.shields.io/badge/stack-React%20%2B%20FastAPI-f5c518?style=for-the-badge&logo=github&logoColor=black">
 </p>
 
-<br>
+## Sobre o Projeto
 
-## ⵌ Sobre o Projeto
+O **Toque de Mulher** é uma plataforma de e-commerce para cosméticos e cuidados pessoais.
 
-O **Toque de Mulher** é um e-commerce de beleza em desenvolvimento, projetado para modernizar uma operação de varejo tradicional. O objetivo é criar uma plataforma digital escalável que automatize processos e expanda o alcance da marca, posicionando-a como uma referência em cosméticos de curadoria com uma experiência de compra premium.
+O objetivo do projeto é levar uma operação de varejo de beleza para o digital, com uma loja navegável, gestão de produtos, controle de estoque, pagamentos online e uma experiência de compra mais moderna para a cliente final.
 
-<br>
+## Status Atual
 
-## ⵌ Status do Projeto
+O projeto já possui uma base sólida de MVP:
 
-> **MVP Parcial** (Março de 2026)
+- loja navegável com catálogo, busca, carrinho e checkout visual;
+- login, cadastro, perfil e endereço;
+- área administrativa e cadastro de produto;
+- gamificação e refinamentos de identidade visual;
+- backend com base para usuários, produtos, pagamentos, fornecedores e estoque;
+- documentação organizada por escopo, requisitos, arquitetura, testes, riscos e sprints.
 
-O projeto possui um frontend navegável e um backend com as principais funcionalidades comerciais implementadas. O foco atual está na integração completa entre as duas frentes para finalizar o fluxo de ponta a ponta (autenticação, catálogo dinâmico e registro de pedidos).
+O MVP está **demonstrável**, mas ainda segue em **validação para operação comercial**. Isso significa que a experiência já pode ser apresentada, mas os fluxos de compra, pedido, pagamento, estoque, endereço e produto administrativo ainda precisam ser comprovados de ponta a ponta.
 
-Para mais detalhes, consulte a [documentação completa](https://github.com/ToqueDeMulher/docs).
+## Repositórios Principais
 
-<br>
+| Repositório                                                       | Finalidade                                                                  |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| [Frontend](https://github.com/ToqueDeMulher/toquedemulher-frontend) | Loja virtual, painel administrativo e experiência da usuária              |
+| [Backend](https://github.com/ToqueDeMulher/toquedemulher-backend)   | API, regras de negócio, autenticação, estoque, fornecedores e pagamentos |
+| [Documentação](https://github.com/ToqueDeMulher/docs)             | Status do projeto, sprints, requisitos, arquitetura, testes e roadmap       |
 
-## ⵌ Tecnologias
+## Leitura das Sprints
+
+| Sprint    | Principal avanço                                                               |
+| --------- | ------------------------------------------------------------------------------- |
+| Sprint#01 | Base do projeto, documentação inicial e estrutura técnica                    |
+| Sprint#02 | Autenticação, checkout, pagamento, dashboard e consolidação do MVP          |
+| Sprint#03 | Busca, endereço, tema, acessibilidade, segurança e início do estoque         |
+| Sprint#04 | Fornecedores, estoque, associação fornecedor-produto e controle admin         |
+| Sprint#05 | Integração, identidade visual, autenticação e refinamentos de layout        |
+| Sprint#06 | Planejamento de fechamento, evidências e validação ponta a ponta             |
+| Sprint#07 | Revisão final de julho, documentação atualizada e pendências reais mapeadas |
+
+## Participação registrada
+
+A leitura dos commits mostra a seguinte distribuição histórica:
+
+- **Maria:** maior participação em frontend e documentação;
+- **Carolina:** consolidação técnica mais recente da documentação;
+- **Gabriel Soares:** contribuições em navegação e endereço;
+- **João Pedro:** contribuições em tema e acessibilidade;
+- **Matheus Musashi:** correções de segurança e dependências no backend.
+
+Também há contribuições anteriores relevantes de **Gustavo Henrique** no backend e de **João Gabriel** na busca. Ambos não fazem mais parte do grupo atual.
+
+## Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-<br>
-
-## ⵌ Como Executar
-
-### Pré-requisitos
-- Node.js (v18+)
-- Python (v3.10+)
-- Git
-
-### Instalação e Execução
-
-```bash
-# 1. Clone os repositórios (frontend e backend)
-
-# 2. Instale as dependências de cada um
-# Frontend: cd toquedemulher-frontend && npm install
-# Backend:  cd toquedemulher-backend && pip install -r requirements.txt
-
-# 3. Execute os servidores de desenvolvimento
-# Frontend: npm run dev (em sua pasta)
-# Backend:  uvicorn app.main:app --reload (em sua pasta)
-```
-
-<br>
-
-## ⵌ Como Contribuir
-
-Contribuições são bem-vindas. Siga o fluxo padrão de desenvolvimento do GitHub:
-
-1.  **Fork** o repositório.
-2.  Crie uma **Branch** para sua feature.
-3.  **Commit** suas alterações.
-4.  **Push** para a sua branch.
-5.  Abra um **Pull Request**.
-
-<br>
-
-## ⵌ Equipe
+## Equipe atual
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/Marichoii">
-        <img src="https://avatars.githubusercontent.com/u/126472433?v=4" width="80px;" alt="Maria Eduarda"/><br />
+        <img src="https://github.com/Marichoii.png" width="80px;" alt="Maria Eduarda"/><br />
         <sub><b>Maria Eduarda</b></sub>
       </a><br />
-      <sub>PO · Fullstack</sub>
+      <sub>Projeto · Frontend · Docs</sub>
     </td>
     <td align="center">
       <a href="https://github.com/MatheusMusashiTanaka">
-        <img src="https://avatars.githubusercontent.com/u/126472450?v=4" width="80px;" alt="Matheus Musashi"/><br />
+        <img src="https://github.com/MatheusMusashiTanaka.png" width="80px;" alt="Matheus Musashi"/><br />
         <sub><b>Matheus Musashi</b></sub>
       </a><br />
-      <sub>Tech Lead · Backend</sub>
+      <sub>Backend · Segurança</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Jpzin1">
-        <img src="https://avatars.githubusercontent.com/u/161030050?v=4" width="80px;" alt="João Pedro"/><br />
+        <img src="https://github.com/Jpzin1.png" width="80px;" alt="João Pedro"/><br />
         <sub><b>João Pedro</b></sub>
       </a><br />
-      <sub>PWA · Fullstack</sub>
+      <sub>Tema · Acessibilidade</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ccarolmdlima">
-        <img src="https://avatars.githubusercontent.com/u/126472626?v=4" width="80px;" alt="Carolina"/><br />
+        <img src="https://github.com/ccarolmdlima.png" width="80px;" alt="Carolina"/><br />
         <sub><b>Carolina</b></sub>
       </a><br />
-      <sub>Frontend · UI</sub>
+      <sub>Docs · QA</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Zouares">
-        <img src="https://avatars.githubusercontent.com/u/115197009?v=4" width="80px;" alt="Gabriel Soares"/><br />
+        <img src="https://github.com/Zouares.png" width="80px;" alt="Gabriel Soares"/><br />
         <sub><b>Gabriel Soares</b></sub>
       </a><br />
-      <sub>UI/UX Designer</sub>
+      <sub>Navegação · Endereço · UI</sub>
     </td>
   </tr>
 </table>
 
-<br>
-
 ---
 
-<p align="center">Desenvolvido pela equipe <b>Toque de Mulher</b></p>
+<p align="center">
+  Projeto desenvolvido pela equipe <b>Toque de Mulher</b>.
+</p>
